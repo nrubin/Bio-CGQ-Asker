@@ -1,4 +1,11 @@
+#author: @noamorama (noamrubin.me)
+
 #Pull in CGQ and CGA files, correspond Q and As, and random ask questions and match them to answers
+
+from flask import Flask
+from flask import request
+from wtforms import Form, validators, TextField
+app = Flask(__name__)
 
 def openQuestions():
     """
@@ -25,19 +32,36 @@ def QAPairs():
     qs = openQuestions()
     ans = openAnswers()
     return zip(qs,ans)
-    
-def askQuestion(num):
+
+class StartForm(Form):
+    """
+    """
+    num = TextField('Number of Questions', [validators.required(), validators.Length(min=1, max=3)])
+
+@app.route('/', methods=['GET','POST'])
+def getNum():
+    """
+    """
+    form = Start(request.form)
+    if request.method == 'POST' and form.validate():
+        num = request.form['Number of Questions']
+    return form
+
+def askQuestion():
     """
     This does the work. It takes the number of questions you want, and
     randomly selects that many question and answer pairs and asks you them.
     """
-    import random
-    pairs = QAPairs()
-    pairsToAsk = random.sample(pairs,num)
-    for pair in pairsToAsk:
-        answer = raw_input('QUESTION: ' + pair[0] + '\n\n')
-        print '\nANSWER: ', pair[1], '\n\n'
-    
+    if request.method=='POST':
+        num=request.form['Welcome to the CGQ Game. How many questions would you like?']
+        
+    else:
+        import random
+        pairs = QAPairs()
+        pairsToAsk = random.sample(pairs,len(pairs))
+        for pair in pairsToAsk:
+            answer = raw_input('QUESTION: ' + pair[0] + '\n\n')
+            print '\nANSWER: ', pair[1], '\n\n'
+        
 if __name__ == '__main__':
-    num = raw_input('Welcome to the CGQ game. How many questions would you like?\n')
-    askQuestion(int(num))
+    app.run(debug=True)
