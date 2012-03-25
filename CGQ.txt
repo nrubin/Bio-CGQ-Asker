@@ -1,0 +1,130 @@
+Photosynthesis requires sunlight, so it stops at night. Does this mean that plants only grow in the daytime?
+What is a potential benefit of atmospheric CO_2 increase?
+Compare and contrast the two main photosynthetic reactions: light reaction and light-independent reaction.
+Compare and contrast the noncyclic electron transport and the cyclic electron transport. 
+Ocean water is very good at absorbing red light. If you found a photosynthetic organism below the surface of the ocean, what color spectra do you think it would absorb? What color do you think this organism could be?
+If humans could photosynthesize, does that mean they would not have to eat?
+Summarize the role of the thylakoid in photosynthesis.
+Describe chemiosmosis in a plant cell.
+Why do molecules only absorb certain wavelengths of light? 
+Compare and contrast C3 plants and C4 plants.
+What is the equation of photosynthesis?
+What did Samuel Ruben show using photosynthesis? how?
+What cellular process keeps cells from attempting to photosynthesize during the night?
+Why would having chlorophyll absorb both red and blue light be more beneficial to the plant, when green light is the most produced wavelength by the sun?
+Why is it good to have both noncyclic electron transport and cyclic electron transport photosystems, one of which produces only ATP and the other which produces both ATP and NADPH?
+Why does photorespiration occur?
+Why is it beneficial for the plant to produce ATP and no NADPH in the cyclic electron transport?
+What are the energy losses in photosynthesis? How does this affect the plants? Why do we want to study it?
+In the Z scheme of electron transport, explain why there are two photosystems.
+Imagine that you are a planetary explorer far from Earth. On this planet all of the plant life is blue. What can you assume about the chloroplasts of these plants. (suspend disbelief about the origin of these plants. They are identical to earth plants except for their chloroplasts).
+Why does noncyclic process of photosynthesis require two different photosystems?
+How much energy is lost during photosynthesis and what are some possible reasons for these losses?
+Using knowledge of biochemical pathways in different evolutionary branches, place a minimum age on the evolutionary development of ATP synthase. Describe your reasoning.
+Using knowledge of carbon dioxide fixation in plants, describe how carbon dioxide-induced climate change could affect global crop portfolios.
+Kentucky bluegrass is a C3 plant. Bermuda grass is a C4 plant. If you planted both plants in the same lawn at the beginning of summer, how would the outlook of the lawn be by the end of the summer?
+Using concepts of natural selection, explain why lower plants (shorter plants) tend to have accessory pigments that absorb photons that have energies in between the energies of red light and blue light?
+Explain why C4 plants would thrive moreso in a tropical environment than in the desert or more temperate conditions, giving your understanding of C4, C3 and CAM plants.
+Knowing that only 5 percent of the sunlight's energy is harvested into the chemical energy stored in carbohydrates, propose a way to decrease energy loss (currently possible or impossible).
+How do chloroplasts’ structure support the theory of endosymbiosis of small organelles?
+Describe the movement of energy through the cyclic electron transportation in plants.
+In cellular respiration, it is necessary that the metabolic reaction is cyclical because the amount of energy that is released in the glucose reaction is too large for the cell to handle all at once. Why do you think it is necessary that photosynthesis is cyclic as well?
+Why the rate of photorespiration increases for G3 plants in a hot, dry climate?
+What are the advantages of accessory pigments? What are some possible disadvantages?
+How is it possible for the roots of plants to grow, if the cells in the root aren't receiving sunlight?
+Compare and contrast the response of a C3 and a C4 plant to a hot day.  
+Why do plants die in the absence of light?
+A photon runs into a molecule. Explain what the three possible outcomes of the interaction and explain which outcome is different when it comes to energy. 
+In the process of fluorescence does the original photon or the released photon have a longer wavelength? More energy? Why? 
+Explain why red algae is more efficient at photosynthesis
+Where else is light important in photosynthesis, other than exciting electrons?
+Why does corn grow better in temperate climates and sugarcane grow better in tropical climates?
+You are engineering a plant (from scratch) and would like it to grow in a very dry, hot climate. Would you make it a C3, C4, or CAM plant, and why?
+Why does metabolism need to take so many steps - <what would happen > if all of the energy <were> released in a single reaction?
+Diabetes is characterized by abnormally high blood glucose concentrations. What does that imply about the metabolism of diabetes patients? <perhaps makes this a bit more specific: perhaps describe one mechanism that enables regulation of metabolism>
+Compare and contrast lactic acid fermentation and alcoholic fermentation.
+Summarize the experiments used to demonstrate chemiosmosis.
+Why is it so important to have Oxygen present in the respiratory chain?
+Long distance runners use enough energy to exhaust their supply of glycogen relatively quickly. Knowing this, why do you think they experience a "second wind" (where after extended periods of running, running suddenly becomes easier)?
+Use osmosis <this term refers specifically to movement of water/solvent> to explain the proton-motive force.
+Summarize the relationships between metabolic pathways in the cell.
+Why does the cell recycle NADH and other electron carriers?
+What is allosteric regulation? Give an example in your body. Why is it important?
+What is different between respiration and fermentation with respect to amount of energy?
+What is the net energy gain from glycolysis? Which steps require energy investments?
+If you were creating energy bars for individuals suffering from malnutrition, what would you chose to include in the bars? Why?
+What makes arsenic so deadly?
+Explain, possibly using a flow chart, how allosteric regulation and negative feedback controls glycolysis, the citric acid cycle, and acetyl coA.  
+What causes your body to start gaining fat?
+Why does fermentation occur after glycolysis in the absence of oxygen? How is this different from what normally occurs?
+Design an experiment that demonstrates the chemiosmotic mechanism. How does it prove the chemiosmotic mechanism?
+Why does the cell take multiple steps while extracting ATP during the Electron Transport Chain?
+Where does glycolysis occur in the cell, What about the citric acid cycle? Do these differences result in problems for the cell??
+During the process of creating energy, free energy is released. In what ways is the energy released? (conversion of energy --> energy is not created)
+Fermentation is essential in brewing alcohol. Why is this so?
+You have been challenged to a problem of estimation. How could you go about estimating the mass of ATP synthesized by your body daily? Do you think that this estimate would be an underestimate, an overestimate, or approximately correct?
+How can you get “fat” by eating too many carbohydrates? 
+Uncoupling proton diffusion from ATP production is a potential strategy for weight reduction programs. By providing a second type of diffusion channel for H+, the energy of the H+ gradient is released as heat energy instead of being used for ATP synthesis. Explain why this strategy might prove to be flawed and fatal.
+Using the concepts of respiration, explain why organisms that can only respire anaerobically are much smaller than organisms that can respire aerobically.
+Kimchi is a Korean dish made of fermented cabbages. Given your understanding of fermentation, what would be essential to do in the process of making Kimchi?
+Who is more likely to survive longer without food, a fat man or a muscular man of same body weight (taking only into consideration that their fat to muscle ratios are different)?
+What is the purpose of lactic acid fermentation considering that it doesn’t produce any additional ATP?
+How does cellular respiration follow the law of conservation of energy? How is energy transferred throughout the process?
+Explain how protons are driven outside the mitochondrial membrane, even though they travel against the concentration gradient.
+In terms of acetyl CoA and ATP, explain why overeating leads to the buildup of fat in tissues.
+The reason our muscles hurt when we work out is due to the build up of lactic acid. Why does this buildup occur?
+Why is it advantageous to the cell for ATP to act as a feedback inhibitor of isocitrate dehydrogenase?
+How does the presence of oxygen affect the process by which cells harvest energy? How does it affect the amount of energy that is produced?
+Explain how oxidation-reduction (redox) reactions work.
+What are the aerobic and anaerobic processes for getting from pyruvate to ATP? Explain how they differ.
+Explain how arsenic works as a poison, understanding that it acts by inhibiting pyruvate dehydrogenase. 
+Why are cells more efficient at creating ATP in the presence of oxygen?
+What is the difference between NAD+ and NADH, and what are their roles in metabolism? 
+Why does the respiratory chain (NADH and a proton and oxygen --> NAD+ and water) take more than one step, even though the reaction could theoretically be accomplished all at once?
+You eat a piece of bread. Explain, at a high level (no need to go into every individual step), how your body converts it into energy.
+Plumpy'nut, a peanut-based paste, is used to treat severe malnutrition in sub-Saharan Africa. In order to repair the damage from starvation and promote rapid weight gain, which macromolecules do you think make up a large portion of this food?
+You remove a mitochondrion from a living cell and immediately extract fluid from the transmembrane space and inner matrix. What will the relative pH of each fluid be?
+In the US, a patent gives a rightsholder exclusive control of an invention for 20 years from the date of filing. In 1980, the U.S. Supreme Court ruled that live, human-made microorganisms are patentable under the U.S. Constitution. Given the benefits of genetic modifications, propose one or more potential positive and negative consequences of this decision.
+How might so-called 'knockout' experiments help scientists develop genetically-modified plants with desirable traits?
+Summarize the process of making a recombinant DNA. 
+Compare and contrast modern recombinant DNA technology and traditional methods of breeding. 
+Could viruses used as vectors to insert genes be harmful to the host cell?
+Can you think of a reason (other than the transmission of transgenes) that it may be counter-productive to make herbicide resistant crops?
+Discuss our ability to produce artificial DNA and genetically modify species and its implications for natural selection.
+In May 2010, scientists successfully synthesized a bacteria genome and used it to completely convert a different type of bacteria.  The synthesized bacteria went through more than a billion replications.  Discuss the potential impact a synthesized species could have on the environment.
+What are some of the advantages to having genetically modified crops? Some disadvantages?
+You are a scientist, and you run several experiments in your lab. One of the most recent experiments is to suppress a gene in mice by inserting an inactive copy of the gene into the embryonic cell. However, the insertion is inefficient and you cannot tell if it worked until the mouse is born. How would you revamp your experiment?
+What is Recombinant DNA and how is it created? (Maybe what tools are important for it? -- some major tools that enabled the technology)
+How are new genes inserted into cells? (Describe one way in which "foreign" gene could be expressed in a bacterial host.)
+Do you believe Pharming to be ethical? Would you be willing to use/have someone you love use a pharmed substance?
+Norman Borlaug, the 1970 winner of the Nobel Peace Prize, created the Dwarf Wheat, a high-yield crop that has been credited with saving over one billion people from death due to starvation. His critics, however, point to the wheat's significantly higher use of water and fertilizer, both resources oft considered commodities, with the effect that some farmers in developing nations can no longer afford the foods they grow. This is an example of critic's claims that GMOs have unforeseeable consequences. How does one balance the immediate and positive results of GMOs against the long-term uncertainties?
+Describe either a cool example of using recombinant DNA and how it works OR why you're against genetic modification.
+Why would you insert a "reporter gene" along with the gene you're actually interested in?
+What are the uses of recombinant DNA? What are the negative aspects?
+What is an application of expression vectors?
+Biologists often use vectors that have selectable markers that gives the host cells a phenotype that is identified by some means. How is this similar to computational coding practices?
+With the knowledge gained from chapter 18, explain how you think Monsanto developed Roundup Ready Cotton. Also consider their decision to create a GMC that is resistant to a herbicide that they have patent rights for.
+Is it better to use prokaryotic or eukaryotic hosts for producing recombinant proteins from human genes? Why?
+How can cloning affect the processes of evolution? (How does recombinant DNA technology compare to traditional selection techniques used by farmers?)
+A mad scientist has created a genetically-modified (GM) bacterium containing 100 plasmid vectors which will express a protein that is extremely toxic to humans. The mad scientist then deposits a culture of the GM bacteria at the same location he found the original wild-type bacteria. His evil plan has been set into motion… but it has a potentially fatal flaw. What might lead to the demise of his GM bacteria?
+We know that we can characterize cellular expression by studying mRNA. Assume that we are able to also characterize cellular expression by studying the proteins present within a cell. Explain why the study of proteins might be advantageous.
+Why are reporter genes important in the process of recombining DNA?
+How is it possible that genetically-modifying plants on a large scale such that they possess resistance to herbicides may be a dangerous course of action?
+How might future biotechnology be used in the field of computers and data storage?
+Give an example of a DNA mutation created in the laboratory and a negative consequence associated with it.
+What are some of the risks of genetically modified agriculture and how might they affect us?
+Explain the process of enzyme restriction and how it allows new DNA sequences to be inserted.
+Name one discovery or breakthrough that lead to the advancement of recombinant DNA.
+Why are selectable marker genes important in the transformation process?
+Compare and contrast aRNA and siRNA.
+Describe one way that DNA Microarray technology could be used to detect vulnerabilities in crops.
+Describe the role of selectable marker genes.
+How do expression vectors allow genes from a eukaryote to be expressed in a prokaryotic cell such as E.Coli?
+Explain some of the reasons why yeast is a good eukaryotic host for recombinant DNA studies. 
+Explain what a cDNA library is and where the DNA in the library comes from.
+When is a virus more effective as a vector than a plasmid?
+What are some advantages to using DNA manipulation over traditional selective breeding methods?
+What are some benefits of DNA manipulation in agricultural biology? What are some potential concerns? Given these, how do you think the scientific community ought to proceed?
+Genes can be inserted in both prokaryotes and eukaryotes. What are the distinct advantages of each?
+Given what you know about their cells, explain why it might be easier to create a genetically modified plant than an animal?
+Hemophilia is generally treated with regular injections of clotting factors, either from blood serum or synthetic. However, in 2011, several patients were successfully treated by replacing the defective gene within liver cells. Compare the advantages and disadvantages of both treatments and decide which is better.
