@@ -70,7 +70,8 @@ def waitForAnswer(pair, i):
     <input type="text" name="answer" /><!--SOME KIND OF JS HERE THAT CHANGES THE DISPLAY ATTRIBUTE OF ANSWER FROM HIDDEN
     TO REGULAR WHEN THE USER PRESSES SUBMIT-->
     <input type="submit" value="Submit" />
-    <div class="answer" id="%f" style="display:none;">
+    <div class="an
+        swer" id="%f" style="display:none;">
     %s
     </div><br />
     """ %(question, i, answer)
