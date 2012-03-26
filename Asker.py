@@ -2,9 +2,7 @@
 
 #Pull in CGQ and CGA files, correspond Q and As, and random ask questions and match them to answers
 
-from flask import Flask
-from flask import request
-from wtforms import Form, validators, TextField
+from flask import Flask, request
 app = Flask(__name__)
 
 def openQuestions():
@@ -33,35 +31,49 @@ def QAPairs():
     ans = openAnswers()
     return zip(qs,ans)
 
-class StartForm(Form):
-    """
-    """
-    num = TextField('Number of Questions', [validators.required(), validators.Length(min=1, max=3)])
-
 @app.route('/', methods=['GET','POST'])
 def getNum():
-    """
-    """
-    form = Start(request.form)
-    if request.method == 'POST' and form.validate():
-        num = request.form['Number of Questions']
-    return form
-
-def askQuestion():
     """
     This does the work. It takes the number of questions you want, and
     randomly selects that many question and answer pairs and asks you them.
     """
+    return """Welcome to the CGQ Game. How many questions would you like?<br />
+    <form method="POST" action="/number">
+    <input type="text" name="num" />
+    <input type="submit" value="Submit" />
+    </form>
+    """
+
+@app.route('/number', methods=['GET','POST'])
+def viewNum():
     if request.method=='POST':
-        num=request.form['Welcome to the CGQ Game. How many questions would you like?']
-        
-    else:
-        import random
-        pairs = QAPairs()
-        pairsToAsk = random.sample(pairs,len(pairs))
-        for pair in pairsToAsk:
-            answer = raw_input('QUESTION: ' + pair[0] + '\n\n')
-            print '\nANSWER: ', pair[1], '\n\n'
-        
+        num=request.form['num']
+        return askQuestion(int(num))
+
+def askQuestion(num):
+    import random
+    pairs = QAPairs()
+    pairsToAsk = random.sample(pairs,num)
+    answer = """<form method="POST" action="showAnswer()">"""
+    i = 1
+    for pair in pairsToAsk:
+        answer += waitForAnswer(pair, i)
+        i += 1
+        #~ answer = raw_input('QUESTION: ' + pair[0] + '\n\n')
+        #~ print '\nANSWER: ', pair[1], '\n\n'
+    return answer + '</form>'
+
+def waitForAnswer(pair, i):
+    question = 'Question: %s \n' %pair[0]
+    answer = 'Answer: %s \n' %pair[1]
+    return """%s<br />
+    <input type="text" name="answer" /><!--SOME KIND OF JS HERE THAT CHANGES THE DISPLAY ATTRIBUTE OF ANSWER FROM HIDDEN
+    TO REGULAR WHEN THE USER PRESSES SUBMIT-->
+    <input type="submit" value="Submit" />
+    <div class="answer" id="%f" style="display:none;">
+    %s
+    </div><br />
+    """ %(question, i, answer)
+    
 if __name__ == '__main__':
     app.run(debug=True)
