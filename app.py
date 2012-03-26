@@ -3,6 +3,7 @@
 #Pull in CGQ and CGA files, correspond Q and As, and random ask questions and match them to answers
 
 from flask import Flask, request
+import os
 app = Flask(__name__)
 
 def openQuestions():
@@ -77,4 +78,5 @@ def waitForAnswer(pair, i):
     """ %(question, i, answer)
     
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get('PORT',29348))
+    app.run(host='0.0.0.0',port=port,debug=True)
