@@ -2,7 +2,7 @@
 
 #Pull in CGQ and CGA files, correspond Q and As, and random ask questions and match them to answers
 
-from flask import Flask, request
+from flask import Flask, request, render_template
 import os
 app = Flask(__name__)
 
@@ -54,15 +54,40 @@ def viewNum():
 def askQuestion(num):
     import random
     pairs = QAPairs()
+    if num > 130:
+		num = 130
     pairsToAsk = random.sample(pairs,num)
-    answer = """<form method="POST" action="showAnswer()">"""
-    i = 1
-    for pair in pairsToAsk:
-        answer += waitForAnswer(pair, i)
-        i += 1
-        #~ answer = raw_input('QUESTION: ' + pair[0] + '\n\n')
-        #~ print '\nANSWER: ', pair[1], '\n\n'
-    return answer + '</form>'
+    pairsToAsk = cleanPairs(pairsToAsk)
+    #~ pairsToAsk = [(to_unicode_or_bust(item[0]),to_unicode_or_bust(item[1])) for item in pairsToAsk] #convert questions to unicode for HTML
+    return render_template('answer.html',questions=pairsToAsk)
+    #~ answer = """<form method="POST" action="showAnswer()">"""
+    #~ i = 1
+    #~ for pair in pairsToAsk:
+        #~ answer += waitForAnswer(pair, i)
+        #~ i += 1
+    #~ return answer + '</form>'
+ 
+def to_unicode_or_bust(obj, encoding='utf-8'):
+     if isinstance(obj, basestring):
+         if not isinstance(obj, unicode):
+             obj = unicode(obj, encoding)
+     return obj
+  
+def cleanPairs(pairsToAsk):
+	result = []
+	index = 0
+	for q,a in pairsToAsk:
+		try:
+			q = unicode(q)
+			a = unicode(a)
+		except:
+			continue
+		result.append((q,a,'q'+str(index),'a'+str(index)))
+		index += 1
+	result.reverse()
+	return result
+		
+		
 
 def waitForAnswer(pair, i):
     question = 'Question: %s \n' %pair[0]
@@ -71,11 +96,13 @@ def waitForAnswer(pair, i):
     <input type="text" name="answer" /><!--SOME KIND OF JS HERE THAT CHANGES THE DISPLAY ATTRIBUTE OF ANSWER FROM HIDDEN
     TO REGULAR WHEN THE USER PRESSES SUBMIT-->
     <input type="submit" value="Submit" />
-    <div class="an
-        swer" id="%f" style="display:none;">
+    <div class="answer" id="%f" style="display:none;">
     %s
     </div><br />
     """ %(question, i, answer)
+    
+#~ def waitForAnswer2(pairsToAsk):
+	#~ return render_template('answer.html',questions=pairsToAsk)
     
 if __name__ == '__main__':
     port = int(os.environ.get('PORT',29348))

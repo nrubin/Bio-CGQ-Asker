@@ -1,0 +1,39 @@
+<html>
+<head>
+	<title>Bio CGQ Asker</title>
+</head>
+<script type="text/javascript">
+	questionIndex = 0;
+function load(){
+	document.getElementById('q' + String(questionIndex)).style.display = "block";
+}
+function showNextQuestion(){
+	questionIndex += 1;
+	//document.getElementById('q' + String(questionIndex-1)).style.display = "none";
+	document.getElementById('q' + String(questionIndex)).style.display = "block";
+}
+
+function showAnswer(){
+	console.log('a' + String(questionIndex));
+	document.getElementById('a' + String(questionIndex)).style.display = "block";
+}
+
+</script>
+<body onload="load()">
+	
+	{% for question, answer, index1, index2 in questions %}
+	<div class="question" id="{{index1}}" style="display:none">
+		{{ question }}
+		<br />
+	    <input type="text" name="answer" />
+	    <button onClick="showAnswer()">Answer!</button>
+	    <div class="answer" id="{{index2}}" style="display:none">
+	    {{ answer }}
+	    <br />
+	    <button onClick="showNextQuestion()">Show Next Question</button>
+	    </div><br />
+    </div>
+    {% endfor %}
+</body>
+
+</html>
