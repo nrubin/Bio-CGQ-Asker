@@ -4,19 +4,30 @@
 </head>
 <script type="text/javascript">
 	questionIndex = 0;
+	totalQuestions = {{ total }};
 function load(){
 	document.getElementById('q' + String(questionIndex)).style.display = "block";
+	currentHTML = document.getElementById('q' + String(questionIndex)).innerHTML
+	document.getElementById('q' + String(questionIndex)).innerHTML = "(" + String(questionIndex + 1) + "/" + String(totalQuestions) + ") " + currentHTML;
 }
 function showNextQuestion(){
 	questionIndex += 1;
+	if (questionIndex >= totalQuestions){
+		alert("No more questions!");
+		window.location.href = '/';
+	}else{
 	document.getElementById('q' + String(questionIndex-1)).style.display = "none";
+	currentHTML = document.getElementById('q' + String(questionIndex)).innerHTML
+	document.getElementById('q' + String(questionIndex)).innerHTML = "(" + String(questionIndex + 1) + "/" + String(totalQuestions) + ") " + currentHTML; 
 	document.getElementById('q' + String(questionIndex)).style.display = "block";
 }
-
+}
 function showAnswer(){
 	console.log('a' + String(questionIndex));
-	document.getElementById('a' + String(questionIndex)).style.display = "block";
+	document.getElementById('a' + String(questionIndex)).style.display = "block";	
+	document.getElementById('a0').style.display = "block";	
 }
+
 
 </script>
 <body onload="load()">
@@ -25,7 +36,8 @@ function showAnswer(){
 	<div class="question" id="{{index1}}" style="display:none">
 		{{ question }}
 		<br />
-	    <input type="text" name="answer" />
+		<textarea name="answer" cols="40" rows="5" id="{{'a' + index1}}"></textarea>
+		<br />
 	    <button onClick="showAnswer()">Answer!</button>
 	    <div class="answer" id="{{index2}}" style="display:none">
 	    {{ answer }}
