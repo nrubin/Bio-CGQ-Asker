@@ -43,10 +43,10 @@ def getNum():
     <script type="text/javascript">
     function checkNumber(){
     number = document.getElementById("num").value;
-    if (!isNaN(parseFloat(number)) && isFinite(number)){
+    if (!isNaN(parseInt(number)) && isFinite(number) && number > 0){
     numQuestions.submit()
     }else{
-    alert("Please enter an integer number of questions")
+    alert("Please enter an integer number of questions greater than 0")
     return false;
     }
     }
