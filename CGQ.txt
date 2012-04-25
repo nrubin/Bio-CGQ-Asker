@@ -1,130 +1,131 @@
-Photosynthesis requires sunlight, so it stops at night. Does this mean that plants only grow in the daytime?
-What is a potential benefit of atmospheric CO_2 increase?
-Compare and contrast the two main photosynthetic reactions: light reaction and light-independent reaction.
-Compare and contrast the noncyclic electron transport and the cyclic electron transport. 
-Ocean water is very good at absorbing red light. If you found a photosynthetic organism below the surface of the ocean, what color spectra do you think it would absorb? What color do you think this organism could be?
-If humans could photosynthesize, does that mean they would not have to eat?
-Summarize the role of the thylakoid in photosynthesis.
-Describe chemiosmosis in a plant cell.
-Why do molecules only absorb certain wavelengths of light? 
-Compare and contrast C3 plants and C4 plants.
-What is the equation of photosynthesis?
-What did Samuel Ruben show using photosynthesis? how?
-What cellular process keeps cells from attempting to photosynthesize during the night?
-Why would having chlorophyll absorb both red and blue light be more beneficial to the plant, when green light is the most produced wavelength by the sun?
-Why is it good to have both noncyclic electron transport and cyclic electron transport photosystems, one of which produces only ATP and the other which produces both ATP and NADPH?
-Why does photorespiration occur?
-Why is it beneficial for the plant to produce ATP and no NADPH in the cyclic electron transport?
-What are the energy losses in photosynthesis? How does this affect the plants? Why do we want to study it?
-In the Z scheme of electron transport, explain why there are two photosystems.
-Imagine that you are a planetary explorer far from Earth. On this planet all of the plant life is blue. What can you assume about the chloroplasts of these plants. (suspend disbelief about the origin of these plants. They are identical to earth plants except for their chloroplasts).
-Why does noncyclic process of photosynthesis require two different photosystems?
-How much energy is lost during photosynthesis and what are some possible reasons for these losses?
-Using knowledge of biochemical pathways in different evolutionary branches, place a minimum age on the evolutionary development of ATP synthase. Describe your reasoning.
-Using knowledge of carbon dioxide fixation in plants, describe how carbon dioxide-induced climate change could affect global crop portfolios.
-Kentucky bluegrass is a C3 plant. Bermuda grass is a C4 plant. If you planted both plants in the same lawn at the beginning of summer, how would the outlook of the lawn be by the end of the summer?
-Using concepts of natural selection, explain why lower plants (shorter plants) tend to have accessory pigments that absorb photons that have energies in between the energies of red light and blue light?
-Explain why C4 plants would thrive moreso in a tropical environment than in the desert or more temperate conditions, giving your understanding of C4, C3 and CAM plants.
-Knowing that only 5 percent of the sunlight's energy is harvested into the chemical energy stored in carbohydrates, propose a way to decrease energy loss (currently possible or impossible).
-How do chloroplasts’ structure support the theory of endosymbiosis of small organelles?
-Describe the movement of energy through the cyclic electron transportation in plants.
-In cellular respiration, it is necessary that the metabolic reaction is cyclical because the amount of energy that is released in the glucose reaction is too large for the cell to handle all at once. Why do you think it is necessary that photosynthesis is cyclic as well?
-Why the rate of photorespiration increases for G3 plants in a hot, dry climate?
-What are the advantages of accessory pigments? What are some possible disadvantages?
-How is it possible for the roots of plants to grow, if the cells in the root aren't receiving sunlight?
-Compare and contrast the response of a C3 and a C4 plant to a hot day.  
-Why do plants die in the absence of light?
-A photon runs into a molecule. Explain what the three possible outcomes of the interaction and explain which outcome is different when it comes to energy. 
-In the process of fluorescence does the original photon or the released photon have a longer wavelength? More energy? Why? 
-Explain why red algae is more efficient at photosynthesis
-Where else is light important in photosynthesis, other than exciting electrons?
-Why does corn grow better in temperate climates and sugarcane grow better in tropical climates?
-You are engineering a plant (from scratch) and would like it to grow in a very dry, hot climate. Would you make it a C3, C4, or CAM plant, and why?
-Why does metabolism need to take so many steps - <what would happen > if all of the energy <were> released in a single reaction?
-Diabetes is characterized by abnormally high blood glucose concentrations. What does that imply about the metabolism of diabetes patients? <perhaps makes this a bit more specific: perhaps describe one mechanism that enables regulation of metabolism>
-Compare and contrast lactic acid fermentation and alcoholic fermentation.
-Summarize the experiments used to demonstrate chemiosmosis.
-Why is it so important to have Oxygen present in the respiratory chain?
-Long distance runners use enough energy to exhaust their supply of glycogen relatively quickly. Knowing this, why do you think they experience a "second wind" (where after extended periods of running, running suddenly becomes easier)?
-Use osmosis <this term refers specifically to movement of water/solvent> to explain the proton-motive force.
-Summarize the relationships between metabolic pathways in the cell.
-Why does the cell recycle NADH and other electron carriers?
-What is allosteric regulation? Give an example in your body. Why is it important?
-What is different between respiration and fermentation with respect to amount of energy?
-What is the net energy gain from glycolysis? Which steps require energy investments?
-If you were creating energy bars for individuals suffering from malnutrition, what would you chose to include in the bars? Why?
-What makes arsenic so deadly?
-Explain, possibly using a flow chart, how allosteric regulation and negative feedback controls glycolysis, the citric acid cycle, and acetyl coA.  
-What causes your body to start gaining fat?
-Why does fermentation occur after glycolysis in the absence of oxygen? How is this different from what normally occurs?
-Design an experiment that demonstrates the chemiosmotic mechanism. How does it prove the chemiosmotic mechanism?
-Why does the cell take multiple steps while extracting ATP during the Electron Transport Chain?
-Where does glycolysis occur in the cell, What about the citric acid cycle? Do these differences result in problems for the cell??
-During the process of creating energy, free energy is released. In what ways is the energy released? (conversion of energy --> energy is not created)
-Fermentation is essential in brewing alcohol. Why is this so?
-You have been challenged to a problem of estimation. How could you go about estimating the mass of ATP synthesized by your body daily? Do you think that this estimate would be an underestimate, an overestimate, or approximately correct?
-How can you get “fat” by eating too many carbohydrates? 
-Uncoupling proton diffusion from ATP production is a potential strategy for weight reduction programs. By providing a second type of diffusion channel for H+, the energy of the H+ gradient is released as heat energy instead of being used for ATP synthesis. Explain why this strategy might prove to be flawed and fatal.
-Using the concepts of respiration, explain why organisms that can only respire anaerobically are much smaller than organisms that can respire aerobically.
-Kimchi is a Korean dish made of fermented cabbages. Given your understanding of fermentation, what would be essential to do in the process of making Kimchi?
-Who is more likely to survive longer without food, a fat man or a muscular man of same body weight (taking only into consideration that their fat to muscle ratios are different)?
-What is the purpose of lactic acid fermentation considering that it doesn’t produce any additional ATP?
-How does cellular respiration follow the law of conservation of energy? How is energy transferred throughout the process?
-Explain how protons are driven outside the mitochondrial membrane, even though they travel against the concentration gradient.
-In terms of acetyl CoA and ATP, explain why overeating leads to the buildup of fat in tissues.
-The reason our muscles hurt when we work out is due to the build up of lactic acid. Why does this buildup occur?
-Why is it advantageous to the cell for ATP to act as a feedback inhibitor of isocitrate dehydrogenase?
-How does the presence of oxygen affect the process by which cells harvest energy? How does it affect the amount of energy that is produced?
-Explain how oxidation-reduction (redox) reactions work.
-What are the aerobic and anaerobic processes for getting from pyruvate to ATP? Explain how they differ.
-Explain how arsenic works as a poison, understanding that it acts by inhibiting pyruvate dehydrogenase. 
-Why are cells more efficient at creating ATP in the presence of oxygen?
-What is the difference between NAD+ and NADH, and what are their roles in metabolism? 
-Why does the respiratory chain (NADH and a proton and oxygen --> NAD+ and water) take more than one step, even though the reaction could theoretically be accomplished all at once?
-You eat a piece of bread. Explain, at a high level (no need to go into every individual step), how your body converts it into energy.
-Plumpy'nut, a peanut-based paste, is used to treat severe malnutrition in sub-Saharan Africa. In order to repair the damage from starvation and promote rapid weight gain, which macromolecules do you think make up a large portion of this food?
-You remove a mitochondrion from a living cell and immediately extract fluid from the transmembrane space and inner matrix. What will the relative pH of each fluid be?
-In the US, a patent gives a rightsholder exclusive control of an invention for 20 years from the date of filing. In 1980, the U.S. Supreme Court ruled that live, human-made microorganisms are patentable under the U.S. Constitution. Given the benefits of genetic modifications, propose one or more potential positive and negative consequences of this decision.
-How might so-called 'knockout' experiments help scientists develop genetically-modified plants with desirable traits?
-Summarize the process of making a recombinant DNA. 
-Compare and contrast modern recombinant DNA technology and traditional methods of breeding. 
-Could viruses used as vectors to insert genes be harmful to the host cell?
-Can you think of a reason (other than the transmission of transgenes) that it may be counter-productive to make herbicide resistant crops?
-Discuss our ability to produce artificial DNA and genetically modify species and its implications for natural selection.
-In May 2010, scientists successfully synthesized a bacteria genome and used it to completely convert a different type of bacteria.  The synthesized bacteria went through more than a billion replications.  Discuss the potential impact a synthesized species could have on the environment.
-What are some of the advantages to having genetically modified crops? Some disadvantages?
-You are a scientist, and you run several experiments in your lab. One of the most recent experiments is to suppress a gene in mice by inserting an inactive copy of the gene into the embryonic cell. However, the insertion is inefficient and you cannot tell if it worked until the mouse is born. How would you revamp your experiment?
-What is Recombinant DNA and how is it created? (Maybe what tools are important for it? -- some major tools that enabled the technology)
-How are new genes inserted into cells? (Describe one way in which "foreign" gene could be expressed in a bacterial host.)
-Do you believe Pharming to be ethical? Would you be willing to use/have someone you love use a pharmed substance?
-Norman Borlaug, the 1970 winner of the Nobel Peace Prize, created the Dwarf Wheat, a high-yield crop that has been credited with saving over one billion people from death due to starvation. His critics, however, point to the wheat's significantly higher use of water and fertilizer, both resources oft considered commodities, with the effect that some farmers in developing nations can no longer afford the foods they grow. This is an example of critic's claims that GMOs have unforeseeable consequences. How does one balance the immediate and positive results of GMOs against the long-term uncertainties?
-Describe either a cool example of using recombinant DNA and how it works OR why you're against genetic modification.
-Why would you insert a "reporter gene" along with the gene you're actually interested in?
-What are the uses of recombinant DNA? What are the negative aspects?
-What is an application of expression vectors?
-Biologists often use vectors that have selectable markers that gives the host cells a phenotype that is identified by some means. How is this similar to computational coding practices?
-With the knowledge gained from chapter 18, explain how you think Monsanto developed Roundup Ready Cotton. Also consider their decision to create a GMC that is resistant to a herbicide that they have patent rights for.
-Is it better to use prokaryotic or eukaryotic hosts for producing recombinant proteins from human genes? Why?
-How can cloning affect the processes of evolution? (How does recombinant DNA technology compare to traditional selection techniques used by farmers?)
-A mad scientist has created a genetically-modified (GM) bacterium containing 100 plasmid vectors which will express a protein that is extremely toxic to humans. The mad scientist then deposits a culture of the GM bacteria at the same location he found the original wild-type bacteria. His evil plan has been set into motion… but it has a potentially fatal flaw. What might lead to the demise of his GM bacteria?
-We know that we can characterize cellular expression by studying mRNA. Assume that we are able to also characterize cellular expression by studying the proteins present within a cell. Explain why the study of proteins might be advantageous.
-Why are reporter genes important in the process of recombining DNA?
-How is it possible that genetically-modifying plants on a large scale such that they possess resistance to herbicides may be a dangerous course of action?
-How might future biotechnology be used in the field of computers and data storage?
-Give an example of a DNA mutation created in the laboratory and a negative consequence associated with it.
-What are some of the risks of genetically modified agriculture and how might they affect us?
-Explain the process of enzyme restriction and how it allows new DNA sequences to be inserted.
-Name one discovery or breakthrough that lead to the advancement of recombinant DNA.
-Why are selectable marker genes important in the transformation process?
-Compare and contrast aRNA and siRNA.
-Describe one way that DNA Microarray technology could be used to detect vulnerabilities in crops.
-Describe the role of selectable marker genes.
-How do expression vectors allow genes from a eukaryote to be expressed in a prokaryotic cell such as E.Coli?
-Explain some of the reasons why yeast is a good eukaryotic host for recombinant DNA studies. 
-Explain what a cDNA library is and where the DNA in the library comes from.
-When is a virus more effective as a vector than a plasmid?
-What are some advantages to using DNA manipulation over traditional selective breeding methods?
-What are some benefits of DNA manipulation in agricultural biology? What are some potential concerns? Given these, how do you think the scientific community ought to proceed?
-Genes can be inserted in both prokaryotes and eukaryotes. What are the distinct advantages of each?
-Given what you know about their cells, explain why it might be easier to create a genetically modified plant than an animal?
-Hemophilia is generally treated with regular injections of clotting factors, either from blood serum or synthetic. However, in 2011, several patients were successfully treated by replacing the defective gene within liver cells. Compare the advantages and disadvantages of both treatments and decide which is better.
+In the game development environment Unity 3D, you can tell an object to "broadcast" messages to all of the game objects in a scene. Any object with a function that has the same name as the message will then execute that function right away. How is this mechanism similar to cell signaling? What is the cellular analog of the message? The function? Name one of the biggest differences.
+Just because a molecule is able to bind to a receptor does not mean that it will initiate a signal transduction pathway. Explain using an example.
+Compare and contrast autocrine signals and paracrine signals. 
+Summarize how a G protein can either activate or inhibit an effector protein. 
+Novocaine is a local anesthetic. Briefly describe how you think it work.
+Explain how a signal can change access through a nuclear membrane.
+Given what you know about the effects of nitric oxide (NO) on the regulation of muscle relaxation, state what you think that the effect of nitrous oxide (N2O, or laughing gas) on cells.
+You are a scientist researching the effects of certain chemicals on cellular regulation and signals. One day you come in, and your assistant tells you he spilled an unknown chemical on your cells. After a bit of chemical inventory, you realize that it could be one of two chemicals- both chemicals have the same effect on the cell, but the cell processes the signal in different ways. Think of a way you can determine what the chemical is.
+How do signal receptors cause a cellular response?
+RTK causes the creation of proteins for cell division. If the signalling process goes wrong there is a possibility for the cell to become cancerous. What is one way this could occur?
+How are ion channels ensured to be open at the right time?
+Explain the difference of gap junctions and plasmodesmata.
+Explain how indirect transmission allows for communication between distant cells.
+Describe a process by which a bacterial cell, such as E. coli, could prevent the loss of solute from its cytoplasm in a hypotonic external environment.
+Ras is a protein that temporarily induces cell division. Given this knowledge, hypothesize one way in which cancer cells operate.
+Insulin is a signal that is too large to move across the phospholipid bilayer. How then can it regulate the metabolism of carbohydrates and fat?
+In the Signal Transduction Pathway, a signal molecule binds to a receptor protein, changing the shape of the molecule, then activates a signal transduction molecule. This then results in cell changes. Explain why you think the signal molecule can't bind to the activated signal transduction molecule directly and skip the receptor protein step. (Hint: Location)
+What is the difference between direct and indirect transduction?
+What are some mediums of signal transmission and where do each come into play?
+Can both direct and indirect signal transduction cause changes in genomic expression?
+Many perscription drugs and over-the-counter medicines list both drowsiness and extreme alertness as side effects. How is it possible that one chemical could produce both of these opposite effects?
+What is one advantage of having a second messenger in the signal transduction train? One disadvantage?
+Describe the basic steps of a signal transduction pathway which might occur in response to an increase in the environmental solute concentration.
+Given that caffeine has a similar molecular structure to adenosine, a ligand that leads to a reduction in brain activity, explain why it is an effective stimulant.  
+Explain the difference between cytoplasmic and membrane receptors. 
+Discuss two reasons why protein kinase cascades are useful signal transducers. 
+Name 2 of 3 ways to inhibit proteins otherwise synthesized because of signaling
+Describe an advantage of indirect transduction versus direct transduction
+What is the difference between direct and indirect signal transduction?
+How can an apparently negligible change in an organism's environment produce a significant response?
+Gap junctions between neurons are called synapses. Ions use these channels to move between cells, signalling neighboring neurons. Why might this have an evolutionary advantage over neurons that use receptors and signal transduction?
+Pacemaker cells in the heart have "leaky" ion channels, which can be closed or opened with certain environmental triggers. Use your knowledge of cell signalling, provide a theory for how heart cells synchronize to contract at the same time.
+Why are mutations important for the survival of a species?
+Scientists have developed a variety of methods to combat genetic diseases, including supplying missing proteins. Arguably, gene therapy is the ideal method to treat these diseases. Explain why. Also, why is gene therapy a more challenging solution than other methods?
+Compare and contrast a silent mutation and a missense mutation.
+Summarize some reasons how genetic mutations lead to dysfunctional proteins.
+Napthalene is a large carbon compound that contains two linked benzene rings. While relatively inert outside the body, in the process of breaking it down in the cell, it becomes very reactive with the nitrogenous bases in DNA. What consequences could this have on the cell?
+With sickle cell anemia for example, do you think it is better to test people for phenotypic changes or genetic changes?
+You are a geneticist, who has just isolated the sequences TTTATCATTAGC and TTTACCATTCGA, which are mutations from the normal TTTACCATTAGC. What types of mutations are these, and which of these mutations will create a problem for the organism and why? 
+What are the advantages and disadvantages of some different types of treatments for genetic diseases?
+Compare somatic and Germ line mutations. How are they different? How does each type affect reproduction?
+Explain the difference between Silent mutations, Missense mutations, Nonsense mutations, and Frame-Shift mutations and the effect they have on the proteins being coded.
+Why are Loss of Function mutations generally recessive?
+Why might prions, such as Mad Cow Disease, be better able to transfer between species so effectively.
+You want to understand how a species of fast growing plants produces two kinds of scent chemicals.  It seems like which chemical is produced could be affected by environment or inheritance.  Describe some approaches you could use and what you would learn from these techniques.
+Ice 9 is a fictional, more stable form of ice that's denser than liquid water and solid at room temperature.  When it comes into contact with water, solid or liquid, it causes the water to freeze into Ice 9.  How is this similar to how a prion works, at least for TSE (brain disease)?
+What is an example of a point mutation that can lead to a harmful defective protein, How does the protein lead to disease?
+How does gene therapy work? Describe the method.
+Approximately 3,000 unrepaired DNA-damaging events occur per human cell per day. How does the human body remain operational with all of these changes in the genomes of its cells?
+Some mutations are caused by one nitrogenous base being chemically converted into a different nitrogenous base. Why is it beneficial for the bases C, U, and T to be chemically similar despite the potential for such mutations?
+How does the allele-specific cleavage method of DNA testing work and what are its limitations?
+How does gel electrophoresis separate DNA fragments?
+After sequencing your DNA, you, a healthy individual, have discovered that you have a point mutation! Given your knowledge of point mutations, should you be panicking?
+Scientists have discovered a species that contains a high percentage of methylated cytosines in its DNA. What can you infer about future generations of this species?
+Rank the three categories of point mutations (nonsense, missense, silent) in order of likeliness to be detrimental to the cell’s health and justify your decisions.
+Compare the significance of a somatic mutation with a germ line mutation. Consider both present generations and future ones.
+Using your knowledge of feedback in genetic expression, describe a manner in which a genetic disease caused by an overly expressed protein may be mitigated.
+Name a possible social or ethical issue that is related to the identification or utilization of STRs in individuals.
+Given that a nonsense mutation occurs when a base substitution causes a stop codon, explain why the location at which the nonsense mutation occurs has an impact on its resulting effect.
+Why is it significant that most diseases are multifactorial?
+Explain what a polymorphism is and how it is differs from a mutation. 
+(from teachable unit) The AVPR1A polymorphism is related to musical ability but has also been related to altruism and human connection. Give one example of how these two effects could be related. 
+Describe an advantage of gene therapy over supplying a missing or defective protein.
+Explain a way to determine DNA length with gel electrophoresis. 
+You are given the (impossible) option of preventing all future genetic mutations in humans. Why is this a good idea? Why is it a bad idea?
+You are investigating a mutation. You know it is a point mutation of some sort. The protein coded for is "off" by many amino acids. What might have happened?
+Discuss the central dogma with respect to prions and propose a treatment for prion-based diseases.
+Hemophilia can be treated with either regular intake of synthetic clotting factors or gene therapy. What are the advantages of each? Which do you think is more effective?
+If you had to sequence the human genome using hierarchical sequencing or shotgun sequencing, which would you choose? Why?
+Beyond the "coolness factor" of "creating life", what are some of the potential benefits/applications of developing synthetic genomes?
+Summarize the differences in sequencing a eukaryotic genome versus sequencing a prokaryotic genome. 
+Compare and contrast the three different repetitive sequences in eukaryotic genomes: highly repetitive sequences, moderately repetitive sequences, and transposons.
+Humans have varying responses to a blood thinner. On the same dose, some patients will get under-dosed and others over-dosed. Is there a genetic way to solve this problem?
+Describe the differences between genomics and genetics.
+Compare and contrast hierarchical sequencing and shotgun sequencing.  What are the benefits of each?  The limitations?
+Explain the significance of gene families.
+What are the advantages of sequencing each human for their specific genome?
+If proteins are the result of the expression of genes, why is the proteome more complex than the genome?
+What are the benefits of sequencing dogs' genomes for humans?
+What are the medical benefits to human genomics?
+Rickettsia prowazekii, the bacteria that causes typhus has 6 genes that encode for proteins that are essential for its virulence. How might this information help scientists find a cure of typhus. 
+How can the study of proteomics be used for preventative healthcare?
+Describe how non-translated repeated sequences of DNA can play a role in genetic diversity.
+Why is it important to understand an individual's genetic variation when administering certain drugs?
+Segments of DNA called transposable elements can move from place to place in the genome and can even be inserted into another piece of DNA in the same cell. How can researchers use this to determine whether or not a gene is essential to a cell?
+Given that the Caenorhabditis elegans, a millimeter-long nematod (roundworm) has a transparent body that develops over 3 days from a fertilized egg to an adult worm made up of nearly 1,000 cells, along with a nervous system, digests food, reproduces sexually, and ages, why is it a good model organism for studying multicellularity?
+What are some of the greatest threats transposons pose to cellular health?
+Given that transposons can both “cut-and-paste” and “copy-and-paste,” what would the functions of the main proteins involved in these processes be?
+Why is shotgun sequencing faster than hierarchical sequencing?
+Why do proteomics or metabolomics give a better description of organisms  than the genome?
+Considering the origin of membrane-bound organelles in eukaryotic cells, provide an explanation for why eukaryotes have so many genes.
+The proteome far more complex than the genome, but the book mainly describes the process of identifying sequences of amino acids in the proteomes of organisms. Why else might the proteome be so complex?
+Explain why the improvement of sequencing technologies made shotgun sequencing advantageous over hierarchal sequencing.  
+What did scientists gain from the Dog Genome Project?
+Explain what SNPs are and how they can be identified. 
+Describe the differences between primary and secondary metabolites.
+Explain what we can discover with comparative genomics.
+Does the length of an organism's genome necessarily relate to the number of genes encoded?
+Compare the relative merits of hierarchical DNA sequencing and shotgun DNA sequencing.
+You have discovered a strange new bacterium with only 350 protein-coding genes. You want to figure out how many of these (and which ones) are essential to the bacterium’s existence. How might you determine this?
+Despite having sequenced much of the human genome, we still do not have a strong understanding and the proteome. Give two reasons as to why this is.
+The Sleeping Beauty transposon is a synthetic transposable sequence which can be used to genetically modify organisms. The SB transposon contains regulator sequences, which can promote or inhibit its transcription and that of the genes around it. What are some advantages o this method of gene insertion over the two we have already studied: viral vectors and plasmids.
+Mendel's apprentice fertilizes a green-podded pea plant with itself. It has four offspring, and all of them have green pods (yellow pods are recessive). Can he be sure that the original plant is true-breeding? What about the offspring?
+Why might people before Mendel have believed in the concept of "blending" - the idea that crossing two individuals with different traits (such as color) result in offspring with an irreversible blend of those traits?
+Summarize the experimentation of the key assumption about how inheritance works: each parent contributes equally to offspring.
+Compare and contrast the terms homozygous and heterozygous
+Assuming that eye color is a simple dominant/recessive trait, and that blue eyes is recessive, how do you think the blue-eyed phenotype began to show its self?
+If you know the entirety of a person's genome, what can you actually tell about them?
+Explain the importance of Mendel's experiments.
+Explain the difference between phenotype and genotype.
+Explain the difference between co-dominance, pleiotropic, and incomplete dominance, and give an example of each.
+Design an experiment that allows you to find approximate gene map of bacteria with two genotypes, each with six alleles.
+Morgan's studies showed that in flies the genes for body color and wing size are linked, so alleles do not sort independently. Explain the importance of this discovery.
+Is it possible for a man to have an XX sex chromosome? A woman to have an XY?
+Explain how you would test whether or not an organism has a homozygous dominant genotype.
+Explain why men are statistically more likely to be color blind than women ( genes determining color blindness are mostly in X chromosome.)
+The phrase “maybe it skips a generation” is a layman term used to describe a lack of some heritable trait (phenotype) in a child that is present in a parent. Describe two different phenomena that can cause a trait to “skip” a generation.
+Assume a particular trait with two alleles, one recessive and one dominant, which noticeably affects the fitness of an organism within a population. Natural selection will nearly eliminate the presence of affected organisms in the population over time. Will this process take longer if the damaging allele is recessive or dominant? Explain your reasoning.
+To answer the qustion "are characteristics of contrasting peas irreversibly blended in successive generations", Mendel crossed a true-breeding spherical (dominant) seed and a true-breeding wrinkled (recessive) seed. Based on what you know of the Mendelian laws of inheritance, predict what the results of the F1 and F2 should be and answer the question.
+Why is it the case that recessive sex-linked mutations are expressed more often in males than in females?
+Given that a female fly with alleles XR XR is mated with a male fly with alleles Xr Y, what kind of daughters and sons would they have? (The dominant R allele is expressed as Red eyes while the r allele is expressed as White eyes)
+Pretend a dog has an allele that is expressed as green colored fur. Does this necessarily mean that the dog will have green colored fur? Give two reasons why or why not.
+What genetic effect gives blood cells their multiple types and why is it important for blood donating?
+Explain the difference between incomplete dominance and codominance. Choose a subject creature and describe the possibly phenotypes if incomplete dominance or codominance were present.
+Height is a quantitative trait. Explain how genetic and non-genetic factors contribute in the vast differences in human height.
+What determines the probability that two genes on the same chromosome will be linked, and why?
+Given that the mutant recessive allele for colorblindness is found in a gene on the X-chromosome and that its phenotype appears in in heterozygous or hemizygous individuals. Explain why this mutant phenotype can skip a generation.
+Describe a possible experiment you could perform to determine if an individual with a dominant phenotype has a heterozygous or homozygous genotype.  
+Explain why is it wrong to assume that a complete map of the genome can tell you exactly what a person looks like.
+The tortoiseshell coloring on calico cats is due to Barr-body inactivation, which causes only one X chromosome within each somatic cell to express its genes. Explain why calico cats are thus, primarily female.
+Compare and contrast incomplete dominance and codominance of alleles. Give examples of each type of dominance.
